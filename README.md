@@ -67,9 +67,15 @@ In the middle user will see the personal information of the professionals.
 
 2. You can use `Ganache` for checking the transaction
 
+Sender and receiver:
+
+![Screenshot](Images/sender_receiver.JPG)
+
+All transactions:
+
 ![Screenshot](Images/tx_list.JPG)
 
-Particular tx:
+Transaction from Sender to Receiver:
 
 ![Screenshot](Images/tx.JPG)
 

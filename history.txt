@@ -1,0 +1,22 @@
+    1  . code
+    2  . code
+    3  сщтвф фсешмфеу вум
+    4  conda activate dev
+    5  code .
+    6  cd Module_19/Starter_Code/
+    7  git clone https://github.com/VladislavGlupak/Fintech-Finder.git
+    8  git status
+    9  git add .
+   10  git commit -m "initial commit"
+   11  git push
+   12  git status
+   13  git add . 
+   14  git commit -m "images"
+   15  git push
+   16  git add . 
+   17  git commit -m "readme"
+   18  git push
+   19  git add . 
+   20  git commit -m "fix readme"
+   21  git push
+   22  history 50 > history.txt

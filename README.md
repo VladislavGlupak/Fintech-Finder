@@ -35,8 +35,10 @@ from bip44 import Wallet
 from eth_account import Account
 from web3.gas_strategies.time_based import medium_gas_price_strategy
 from web3 import Web3
-w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))
 ```
+
+Ganache network:
+`w3 = Web3(Web3.HTTPProvider('HTTP://127.0.0.1:7545'))`
 
 ---
 
@@ -66,6 +68,8 @@ In the middle user will see the personal information of the professionals.
 2. You can use `Ganache` for checking the transaction
 
 ![Screenshot](Images/tx_list.JPG)
+
+Particular tx:
 
 ![Screenshot](Images/tx.JPG)
 
